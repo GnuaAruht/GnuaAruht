@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thura Aung</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gnuaaruht&label=Profile%20views&color=0e75b6&style=flat" alt="gnuaaruht" /> </p>
-
-
 - 💬 Ask me about **Java, Kotlin and Dart**
 
 - 📫 How to reach me **dev.thura12@gmail.com**
