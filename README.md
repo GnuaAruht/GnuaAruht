@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Thura Aung, mobile application developer.</h2>
+<h2 align="center">Hi 👋, I'm Thura Aung, mobile application developer.</h2>
 
 - 🌱 I’m currently learning **Jetpack compose and Kotlin Multiplatform Mobile (KMM)**
 - 📫 How to reach me **dev.thura12@gmail.com**
